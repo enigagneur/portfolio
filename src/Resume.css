@@ -1,0 +1,13 @@
+.resume{
+    margin:20px;
+}
+
+.resume__button{
+    background-color: lightseagreen;
+    border: 1px solid;
+    text-decoration: none;
+}
+
+.resume__icon{
+    align-items: center;
+}

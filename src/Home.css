@@ -1,0 +1,33 @@
+.home__image{
+    width: 100%;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0,0,0,0));
+    max-width: 1500px;
+}
+
+.elements{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.home__icons{
+    display: flex;
+    justify-content: center;
+}
+
+.home__icon{
+    width: 40px!important;
+    height: 40px!important;
+    text-align: center!important;
+    font-size: 1.2em!important;
+    line-height: 2em!important;
+    color:lightseagreen;
+    background: hsla(0,0%,100%,.972)!important;
+    border-radius: 50%!important;
+    transition: .5s!important;    
+
+}
+
+.text{
+    color: lightseagreen;
+}

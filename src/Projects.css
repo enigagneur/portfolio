@@ -1,0 +1,43 @@
+.projects__images{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.projects__images1{
+    height: 200px;
+    margin-right: 20px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+}
+
+.projects__images2{
+    height: 200px;
+    margin-right: 20px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+}
+
+.projects__images3{
+    height: 200px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+}
+
+.text{
+    color: lightseagreen;
+}
+
+.projects__box{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightseagreen;
+    margin: 20px;
+    padding: 10px;
+}
+
+.projects__button{
+    background-color: lightseagreen;
+    border: 1px solid;
+    text-decoration: none;
+}

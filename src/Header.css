@@ -1,0 +1,51 @@
+.header{
+    display: flex;
+    background-color: #181a27!important;
+    justify-content: space-evenly;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header__title{
+    display: flex;
+    color: #fafafa!important;
+}
+
+.header__link {
+    color: black;
+    text-decoration: none;
+}
+
+.header__optionHome{
+    display: flex;
+    color :#fafafa!important;
+    align-items: center;
+}
+
+.header__option{
+    display: flex;
+    color :#fafafa!important;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header__optionUser{
+    display: flex;
+    color :#fafafa!important;
+    align-items: center;
+}
+
+.header__optionProjects{
+    display: flex;
+    color :#fafafa!important;
+    align-items: center;
+}
+
+.header__optionResume{
+    display: flex;
+    color :#fafafa!important;
+    align-items: center;
+}
